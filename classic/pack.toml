@@ -1,0 +1,13 @@
+name = "pozitp's optimiz"
+author = "pozitp"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3d4f880e0fe4995aaf23f545d84102621b6cf1de59ce33ee026b1c3400567542"
+
+[versions]
+fabric = "0.12.4"
+minecraft = "1.17.1"
