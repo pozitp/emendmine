@@ -2,6 +2,11 @@
 
 # EmendMine
 
+### Versions
+- OnlyOpt 1.17.1
+- Standard 1.17.1
+- OnlyOpt 1.18 (By [@theenderofficial](https://github.com/TheEnderOfficial))
+
 ### A Fabric modpack for Minecraft that focuses on performance, optimizations and some improvements
 
 This resource pack created for people, who want better performance, who came from OptiFine and Forge and people who interested in Fabric analogs. Also it add mods for people who's like customization, who want to play on multiplayer servers. (if you play on some vanilla servers you should off Twekeroo and Death Coords, use it for own risk)
