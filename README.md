@@ -2,10 +2,14 @@
 
 # EmendMine
 
-### Versions
-- OnlyOpt 1.17.1
-- Standard 1.17.1
-- OnlyOpt 1.18 (By [@theenderofficial](https://github.com/TheEnderOfficial))
+### Current versions
+- [Standard 1.18.2](https://github.com/pozitp/emendmine/tree/main)
+
+### Archieved versions
+- [Standard 1.18.1](https://github.com/pozitp/emendmine/tree/1.18.1) (search in releases 3.x.x)
+- OnlyOpt 1.18 (By [@theenderofficial](https://github.com/TheEnderOfficial)) (search in releases 3.x.x) [LOSED BRANCH]
+- Standard 1.17.1 (search in releases 1.x.x) [LOSED BRANCH]
+- OnlyOpt 1.17.1 (search in releases 1.x.x) [LOSED BRANCH]
 
 ### A Fabric modpack for Minecraft that focuses on performance, optimizations and some improvements
 
@@ -61,4 +65,4 @@ The modpack has been set up to be compatible with the rules of most public third
 #### Mods that can be disabled without affecting performance:
 -   All that are not included in the OnlyOpt
 
-##### Readme last edited in 1.2.1
+##### Readme last edited in 4.0.0
