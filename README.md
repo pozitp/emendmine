@@ -2,6 +2,9 @@
 
 # EmendMine
 
+[![Release](https://img.shields.io/github/release/pozitp/emendmine.svg)]()
+[![Downloads](https://img.shields.io/github/downloads/pozitp/emendmine/total.svg)]()
+
 ### Current versions
 - [Standard 1.18.2](https://github.com/pozitp/emendmine/tree/main)
 
