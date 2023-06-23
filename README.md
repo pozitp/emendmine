@@ -6,8 +6,9 @@
 [![Downloads](https://img.shields.io/github/downloads/pozitp/emendmine/total.svg)]()
 
 ### Current versions
-- [Standard 1.19.2](https://github.com/pozitp/emendmine/tree/main)
+- [Standard 1.20.1](https://github.com/pozitp/emendmine/tree/main)
 ### Archieved versions
+- [Standard 1.19.2](https://github.com/pozitp/emendmine/tree/1.19.2)
 - [Standard 1.18.2](https://github.com/pozitp/emendmine/tree/1.18.2)
 - [Standard 1.18.1](https://github.com/pozitp/emendmine/tree/1.18.1) (search in releases 3.x.x)
 - OnlyOpt 1.18 (By [@theenderofficial](https://github.com/TheEnderOfficial)) (search in releases 3.x.x) [LOSED BRANCH]
@@ -62,9 +63,9 @@ No problem, you can simply download other mods, but before download check the co
 
 ### Disclaimer
 
-The modpack has been set up to be compatible with the rules of most public third-party servers, but it is your responsibility to verify whether you are allowed to use it or not. By installing this modpack you agree that the the modpack author, the mod developers and Mojang provide no warranties for using this modpack, every action you do with it is your own. (For example, the command /ghost may be disabled or disallowed on some servers, but it is overall safe if you use it rarely, only when needed)
+The modpack has been set up to be compatible with the rules of most public third-party servers, but it is your responsibility to verify whether you are allowed to use it or not. By installing this modpack you agree that the the modpack author, the mod developers and Mojang provide no warranties for using this modpack, every action you do with it is your own.
 
 <!-- #### Mods that can be disabled without affecting performance:
 -   All that are not included in the OnlyOpt -->
 
-##### Readme last edited in v5.0.0
+##### Readme last edited in v5.2.0
