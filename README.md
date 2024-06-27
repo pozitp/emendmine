@@ -11,7 +11,7 @@
 - [Standard 1.19.2](https://github.com/pozitp/emendmine/tree/1.19.2)
 - [Standard 1.18.2](https://github.com/pozitp/emendmine/tree/1.18.2)
 - [Standard 1.18.1](https://github.com/pozitp/emendmine/tree/1.18.1) (search in releases 3.x.x)
-- OnlyOpt 1.18 (By [@theenderofficial](https://github.com/TheEnderOfficial)) (search in releases 3.x.x) [LOSED BRANCH]
+- OnlyOpt 1.18 (By [@nosqd](https://github.com/nosqd)) (search in releases 3.x.x) [LOSED BRANCH]
 - Standard 1.17.1 (search in releases 1.x.x) [LOSED BRANCH]
 - OnlyOpt 1.17.1 (search in releases 1.x.x) [LOSED BRANCH]
 
